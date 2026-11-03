@@ -1,0 +1,4 @@
+PÁGINA DE VENTA — VISTA LOCAL
+
+Extrae este ZIP y abre index.html con Microsoft Edge o Google Chrome.
+La composición principal ahora presenta la tablet, el libro y el teléfono en espacios separados.
